@@ -4,7 +4,7 @@
   "dependencies": {},
   "scripts": {
     "test": "gulp test",
-    "start": "gulp serve"
+    "start": "bower install;gulp serve"
   },
   "formio": {
     "docRoot": "dist"
